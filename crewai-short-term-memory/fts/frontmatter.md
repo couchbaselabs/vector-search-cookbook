@@ -1,7 +1,7 @@
 ---
 # frontmatter
 path: "/tutorial-crewai-short-term-memory-couchbase-using-fts"
-title: Implementing Short-Term Memory for CrewAI Agents with Couchbaseusing FTS Service
+title: Implementing Short-Term Memory for CrewAI Agents with Couchbase using FTS Service
 short_title: CrewAI Short-Term Memory with Couchbase using FTS
 description:
   - Learn how to implement short-term memory for CrewAI agents using Couchbase's vector search capabilities using FTS.
