@@ -1,10 +1,10 @@
 ---
 # frontmatter
-path: "/tutorial-crewai-short-term-memory-couchbase"
-title: Implementing Short-Term Memory for CrewAI Agents with Couchbase
-short_title: CrewAI Short-Term Memory with Couchbase
+path: "/tutorial-crewai-short-term-memory-couchbase-using-fts"
+title: Implementing Short-Term Memory for CrewAI Agents with Couchbaseusing FTS Service
+short_title: CrewAI Short-Term Memory with Couchbase using FTS
 description:
-  - Learn how to implement short-term memory for CrewAI agents using Couchbase's vector search capabilities.
+  - Learn how to implement short-term memory for CrewAI agents using Couchbase's vector search capabilities using FTS.
   - This tutorial demonstrates how to store and retrieve agent interactions using semantic search.
   - You'll understand how to enhance CrewAI agents with memory capabilities using LangChain and Couchbase.
 content_type: tutorial
