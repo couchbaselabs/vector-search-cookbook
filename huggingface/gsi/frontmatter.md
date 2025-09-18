@@ -1,6 +1,6 @@
 ---
 # frontmatter
-path: "/tutorial-huggingface-couchbase-vector-search-using-global-secondary-indexes"
+path: "/tutorial-huggingface-couchbase-vector-search-with-global-secondary-index"
 title: Using Hugging Face Embeddings with Couchbase Vector Search with GSI
 short_title: Hugging Face with Couchbase Vector Search with GSI
 description:
