@@ -1,6 +1,6 @@
 ---
 # frontmatter
-path: "/tutorial-huggingface-couchbase-vector-search-using-fts"
+path: "/tutorial-huggingface-couchbase-vector-search-with-fts"
 title: Using Hugging Face Embeddings with Couchbase Vector Search using FTS Service
 short_title: Hugging Face with Couchbase Vector Search using FTS Service
 description:
