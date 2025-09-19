@@ -1,6 +1,6 @@
 ---
 # frontmatter
-path: "/tutorial-crewai-short-term-memory-couchbase-using-global-secondary-indexes"
+path: "/tutorial-crewai-short-term-memory-couchbase-with-global-secondary-index"
 title: Implementing Short-Term Memory for CrewAI Agents with Couchbase with GSI
 short_title: CrewAI Short-Term Memory with Couchbase with GSI
 description:

@@ -1,6 +1,6 @@
 ---
 # frontmatter
-path: "/tutorial-crewai-short-term-memory-couchbase-using-fts"
+path: "/tutorial-crewai-short-term-memory-couchbase-with-fts"
 title: Implementing Short-Term Memory for CrewAI Agents with Couchbase using FTS Service
 short_title: CrewAI Short-Term Memory with Couchbase using FTS
 description:
