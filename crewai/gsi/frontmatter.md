@@ -1,6 +1,6 @@
 ---
 # frontmatter
-path: "/tutorial-crewai-couchbase-rag-using-global-secondary-indexes"
+path: "/tutorial-crewai-couchbase-rag-with-global-secondary-index"
 title: Retrieval-Augmented Generation (RAG) with Couchbase and CrewAI with GSI
 short_title: RAG with Couchbase and CrewAI with GSI
 description:
